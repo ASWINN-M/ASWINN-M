@@ -40,9 +40,9 @@ An internship where I can help build:
 
 ## Competitive programming
 
-I'm a **Competitive Programming Core Member at Code Crux (VIT-AP)** and keep grinding DSA.
+I'm a **Competitive Programming Core Member at Code Crux (VIT-AP)**.
 
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/weWjVE13i9/)
+- [![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/weWjVE13i9/)
 - [![NeetCode](https://img.shields.io/badge/NeetCode-111827?style=for-the-badge&logoColor=FACC15)](https://neetcode.io/user/StormSannin801)
 
 ---
