@@ -50,58 +50,29 @@ clear goal
 
 ---
 
-## Tech stack I've worked with
+## Core AI Engineering stack
 
-### AI / Agents / LLMs
+### Most important
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-Tool%20Calling-0A66C2?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-Ollama%20%7C%20OpenAI%20API-412991?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented-39D353?style=for-the-badge)
-![Whisper](https://img.shields.io/badge/Whisper-Speech%20to%20Text-000000?style=for-the-badge)
-![TTS](https://img.shields.io/badge/TTS-Text%20to%20Speech-6E40C9?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-Ollama%20%7C%20OpenAI%20API-412991?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-Vector%20Search-39D353?style=for-the-badge)
 ![Prompting](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge)
 
-### ML / NLP / CV
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Important supporting tools
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0668E1?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-XGBoost%20%7C%20LightGBM%20%7C%20CatBoost-008000?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-TF--IDF%20%7C%20Classification-5C33CC?style=for-the-badge)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-OCR-2932E1?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![SVM](https://img.shields.io/badge/Classical%20ML-SVM%20%7C%20Clustering%20%7C%20Regression-555555?style=for-the-badge)
-
-### Data / Retrieval stores
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-FF6B6B?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-Facebook%20AI-0668E1?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-Atlas%20Vector-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-Sentence%20Transformers%20%7C%20Ollama-39D353?style=for-the-badge)
-
-### Backend / Apps
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI-499848?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Pathway](https://img.shields.io/badge/Pathway-Streaming%20%2F%20Indexing-000000?style=for-the-badge)
-
-### Frontend / Web
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Cloud / Tools
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/CLI-Terminal%20%2F%20Scripts-FCC624?style=for-the-badge&logo=gnubash&logoColor=black)
 
 ---
 
