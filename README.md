@@ -42,9 +42,17 @@ An internship where I can help build:
 
 I'm a **Competitive Programming Core Member at Code Crux (VIT-AP)**.
 
-[![LeetCode](https://img.icons8.com/?size=50&id=9L16NypUzu38&format=png&color=000000)](https://leetcode.com/u/weWjVE13i9/)<br>
+<p>
+  <a href="https://leetcode.com/u/weWjVE13i9/">
+    <img src="https://img.icons8.com/?size=50&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode">
+  </a>
+</p>
 
-[![NeetCode](https://img.shields.io/badge/NeetCode-111827?style=for-the-badge&logoColor=FACC15)](https://neetcode.io/user/StormSannin801)
+<p>
+  <a href="https://neetcode.io/user/StormSannin801">
+    <img src="https://img.shields.io/badge/NeetCode-111827?style=for-the-badge&logoColor=FACC15" alt="NeetCode">
+  </a>
+</p>
 
 ---
 
