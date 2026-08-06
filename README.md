@@ -1,4 +1,4 @@
-# Hey, I'm Aswin 👋
+﻿# Hey, I'm Aswin 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=39D353&center=false&vCenter=true&width=720&height=40&lines=Looking+for+an+AI+Agent+%2F+AI+Engineering+internship;I+build+agents%2C+RAG+systems%2C+and+NLP+apps;LangGraph+%C2%B7+RAG+%C2%B7+OCR+%C2%B7+Applied+ML)](https://git.io/typing-svg)
 
@@ -7,7 +7,7 @@ Focused on **LangGraph agents**, **RAG**, **OCR + NLP**, and shipping small end-
 
 🌐 **Portfolio:** [https://ASWINN-M.github.io/Portfolio/](https://ASWINN-M.github.io/Portfolio/)  
 📄 **Resume:** download from the portfolio navbar  
-📫 **Email:** aswinmmsa@gmail.com  
+✉️ **Email:** aswinmmsa@gmail.com  
 🔗 **LinkedIn:** [aswin-m-6ab856281](https://www.linkedin.com/in/aswin-m-6ab856281)
 
 ---
@@ -35,6 +35,15 @@ An internship where I can help build:
 | **Personal Portfolio** | React + Three.js site showcasing my work | [Portfolio](https://github.com/ASWINN-M/Portfolio) |
 
 ✨ Full write-ups: [Portfolio → Projects](https://ASWINN-M.github.io/Portfolio/#projects)
+
+---
+
+## Competitive programming
+
+I'm a **Competitive Programming Core Member at Code Crux (VIT-AP)** and keep grinding DSA.
+
+- ![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) [leetcode.com/u/weWjVE13i9](https://leetcode.com/u/weWjVE13i9/)
+- ![NeetCode](https://img.shields.io/badge/NeetCode-Practice-FACC15?style=for-the-badge&logoColor=black) [neetcode.io/user/StormSannin801](https://neetcode.io/user/StormSannin801)
 
 ---
 
@@ -100,6 +109,8 @@ clear goal
 - 🖥️ Portfolio → [ASWINN-M.github.io/Portfolio](https://ASWINN-M.github.io/Portfolio/)
 - 🧠 Profile goal → **AI Agent / AI Engineering Intern**
 - 🤝 Open to remote internships and hands-on learning teams
+- 🧩 LeetCode → [weWjVE13i9](https://leetcode.com/u/weWjVE13i9/)
+- 📘 NeetCode → [StormSannin801](https://neetcode.io/user/StormSannin801)
 
 ---
 
