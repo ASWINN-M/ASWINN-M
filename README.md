@@ -42,8 +42,8 @@ An internship where I can help build:
 
 I'm a **Competitive Programming Core Member at Code Crux (VIT-AP)** and keep grinding DSA.
 
-- ![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) [leetcode.com/u/weWjVE13i9](https://leetcode.com/u/weWjVE13i9/)
-- ![NeetCode](https://img.shields.io/badge/NeetCode-Practice-FACC15?style=for-the-badge&logoColor=black) [neetcode.io/user/StormSannin801](https://neetcode.io/user/StormSannin801)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/weWjVE13i9/)
+- [![NeetCode](https://img.shields.io/badge/NeetCode-111827?style=for-the-badge&logoColor=FACC15)](https://neetcode.io/user/StormSannin801)
 
 ---
 
