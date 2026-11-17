@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=33C2CC&center=false&vCenter=true&width=780&height=45&lines=AI+Agent+Developer+%7C+VIT-AP+'27;Building+agents+that+fetch%2C+act+%26+decide;LangGraph+%C2%B7+RAG+%C2%B7+OCR+%C2%B7+MCP;Open+to+AI+Engineering+Internship)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ASWINN-M/Portfolio/main/public/assets/ai/ai-banner.svg" alt="AI neural network banner" width="100%" />
+  <img src="./assets/ai-profile-banner.jpg" alt="AI neural network banner" width="100%" />
 </p>
 
 I build things that don't just chat — they **retrieve, use tools, and take actions**.
@@ -18,24 +18,24 @@ Focused on **LangGraph agents**, **RAG**, **OCR + NLP**, and shipping small end-
 
 ## GitHub activity (live web stats)
 
-<!-- Live SVG web strings that update from GitHub commits -->
-
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ASWINN-M&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="ASWINN-M GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ASWINN-M&theme=radical" alt="ASWINN-M GitHub stats" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ASWINN-M&theme=radical&hide_border=true" alt="ASWINN-M streak stats" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASWINN-M&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ASWINN-M&theme=radical" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ASWINN-M&theme=radical" alt="Most commit language" />
 </p>
 
 <details>
 <summary><strong>Copy-paste web strings (badge URLs)</strong></summary>
 
 ```text
-https://github-readme-stats.vercel.app/api?username=ASWINN-M&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true
+https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ASWINN-M&theme=radical
 https://github-readme-streak-stats.herokuapp.com/?user=ASWINN-M&theme=radical&hide_border=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=ASWINN-M&layout=compact&theme=radical&hide_border=true&langs_count=8
+https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ASWINN-M&theme=radical
+https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ASWINN-M&theme=radical
 https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=33C2CC&center=false&vCenter=true&width=780&height=45&lines=AI+Agent+Developer+%7C+VIT-AP+'27;Building+agents+that+fetch%2C+act+%26+decide;LangGraph+%C2%B7+RAG+%C2%B7+OCR+%C2%B7+MCP;Open+to+AI+Engineering+Internship
 ```
 
@@ -57,9 +57,9 @@ An internship where I can help build:
 ## Focus visuals
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ASWINN-M/Portfolio/main/public/assets/ai/ai-agent.svg" alt="AI agent concept" width="42%" />
+  <img src="./assets/ai-agent-visual.jpg" alt="AI agent concept" width="42%" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ASWINN-M/Portfolio/main/public/assets/ai/ai-rag.svg" alt="RAG document intelligence" width="42%" />
+  <img src="./assets/ai-rag-visual.jpg" alt="RAG document intelligence" width="42%" />
 </p>
 
 | Visual | Meaning |
