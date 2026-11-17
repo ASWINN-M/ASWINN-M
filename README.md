@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=33C2CC&center=false&vCenter=true&width=820&height=40&lines=Open+to+AI+Engineering+%2F+Agent+Internships;LangGraph+%C2%B7+RAG+%C2%B7+OCR+%C2%B7+MCP;VIT-AP+'27+%C2%B7+Building+agents+that+act)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="./assets/hero-system.svg" alt="Agent system map: Input → LangGraph → RAG/Tools → MCP → Answer" width="100%" />
+  <img src="./assets/hero-system.png" alt="Agent system map: Input → LangGraph → RAG/Tools → MCP → Answer" width="100%" />
 </p>
 
 **I build AI systems that retrieve, use tools, and take actions — not chatbots that only talk.**
@@ -22,7 +22,7 @@ Looking for an **AI Agent / AI Engineering internship** (remote OK) where I can 
 ## What I focus on
 
 <p align="center">
-  <img src="./assets/focus-panels.svg" alt="Focus panels: AI Agents, RAG Systems, Vision + OCR" width="100%" />
+  <img src="./assets/focus-panels.png" alt="Focus panels: AI Agents, RAG Systems, Vision + OCR" width="100%" />
 </p>
 
 ---
@@ -43,7 +43,7 @@ Looking for an **AI Agent / AI Engineering internship** (remote OK) where I can 
 ## How I build
 
 <p align="center">
-  <img src="./assets/build-loop.svg" alt="Build loop: goal → tools/retrieval → memory → eval → ship" width="100%" />
+  <img src="./assets/build-loop.png" alt="Build loop: goal → tools/retrieval → memory → eval → ship" width="100%" />
 </p>
 
 ---
